@@ -1,0 +1,3 @@
+Means–ends analysis (MEA) is a problem solving technique used commonly in artificial intelligence (AI) for limiting search in AI  programs.
+It is also a technique used at least since the 1950s as a creativity tool, most frequently mentioned in engineering books on design methods. MEA is also related to means–ends chain approach used commonly in consumer behavior analysis. It is also a way to clarify one's thoughts when embarking on a mathematical proof.
+

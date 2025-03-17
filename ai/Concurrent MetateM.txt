@@ -1,0 +1,7 @@
+Concurrent MetateM is a programming language that utilizes a novel approach to concurrency by leveraging metaprogramming techniques to manage thread execution. By employing an intermediate representation of threads as data structures, Concurrent MetateM enables a high degree of flexibility and expressiveness in concurrent programming.
+
+The design of Concurrent MetateM is centered around the concept of "threadlets," which are abstract representations of threads that can be composed and manipulated using a set of formal rules. This approach allows for a level of abstraction and decoupling between thread execution and scheduling, enabling developers to focus on writing concurrent code without being concerned with the underlying threading mechanics.
+
+Concurrent MetateM has been designed with performance, safety, and composability in mind, making it an attractive option for applications that require high concurrency and low overhead. The language's design has been influenced by research in programming languages, type systems, and formal methods, reflecting a commitment to advancing the state-of-the-art in concurrent programming.
+
+As of its current status, Concurrent MetateM remains a relatively new and experimental programming language, with ongoing development and refinement aimed at addressing key challenges and improving its usability.

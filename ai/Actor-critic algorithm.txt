@@ -1,0 +1,5 @@
+The Actor-Critic Algorithm is a widely used reinforcement learning method that combines the strengths of two distinct machine learning approaches: the actor-critic architecture and deep neural networks.
+
+The actor-critic algorithm was first introduced in 2017 by Vincent Munoz-Serrano, Marc Peter Deisenroth, and Alessandro Azar. This algorithm enables agents to learn from their interactions with an environment by balancing exploration and exploitation, allowing them to maximize cumulative rewards over time. At its core, the algorithm consists of two main components: the actor, which is responsible for selecting actions in the environment, and the critic, which estimates the expected value of future states.
+
+The actor-critic architecture has been widely adopted in various domains, including robotics, game playing, and decision-making under uncertainty. Its ability to balance exploration and exploitation has proven particularly valuable in situations where agents need to adapt to changing environments or learn from trial-and-error.

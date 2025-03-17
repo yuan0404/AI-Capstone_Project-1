@@ -1,0 +1,1 @@
+Data annotation is the process of labeling or tagging relevant metadata within a dataset to enable machines to interpret the data accurately. The dataset can take various forms, including images, audio files, video footage, or text.

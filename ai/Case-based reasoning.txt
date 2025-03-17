@@ -1,0 +1,7 @@
+Case-based reasoning (CBR) is a knowledge representation and decision-making approach that utilizes the retention of cases to reason about new, unseen situations. The method is based on the idea that experts and organizations often rely on the experience and knowledge gathered from previous cases to inform their decisions in similar or analogous situations.
+
+The core concept of CBR involves storing and retrieving cases, which are typically characterized by a set of attributes or features, from a case repository. These stored cases serve as a foundation for generating solutions to novel problems, as they provide a basis for analogy-based reasoning. By leveraging the patterns and relationships inherent in the existing cases, the system can identify potential similarities and generate hypotheses, predictions, or recommendations for addressing the new situation.
+
+The origins of CBR can be traced back to the 1980s, when it was first introduced as a problem-solving technique within artificial intelligence research. Since its inception, CBR has been applied in various domains, including medicine, engineering, finance, and education. The approach has garnered significant attention due to its potential to facilitate more efficient decision-making processes, especially in situations where human expertise is limited or unavailable.
+
+This article will provide an overview of the underlying principles, applications, and limitations of case-based reasoning, as well as discuss current research directions and future prospects for this knowledge representation method.

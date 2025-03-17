@@ -1,0 +1,1 @@
+The environmental impact of artificial intelligence includes substantial energy consumption for training and using deep learning models, and the related carbon footprint and water usage. Some scientists have suggested that artificial intelligence (AI) may also provide solutions to environmental problems.

@@ -1,0 +1,1 @@
+Arizona Financial Text System (AZFinText) is a textual-based quantitative financial prediction system written by Robert P. Schumaker of University of Texas at Tyler and Hsinchun Chen of the University of Arizona.

@@ -1,0 +1,2 @@
+LPA* or Lifelong Planning A* is an incremental heuristic search algorithm based on A*. It was first described by Sven Koenig and Maxim Likhachev in 2001.
+

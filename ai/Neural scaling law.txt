@@ -1,0 +1,7 @@
+The neural scaling law refers to the observation that the number of neurons in the nervous system of an organism tends to scale with its body size, following a predictable power-law relationship. This phenomenon has been observed across various species, from invertebrates to vertebrates, and has significant implications for our understanding of brain evolution, development, and function.
+
+The neural scaling law was first described by paleontologist James Hetherington in 1987, who noted that the number of neurons in the brains of fossilized animals correlated strongly with their body mass. Since then, numerous studies have confirmed this relationship, demonstrating that even modern organisms exhibit a similar scaling pattern.
+
+Despite its widespread occurrence, the neural scaling law remains poorly understood, and its underlying mechanisms are still the subject of ongoing research and debate. Some scientists have proposed that the law is driven by evolutionary pressures, such as the need for increased sensory processing capacity in larger animals. Others have suggested alternative explanations, including the role of developmental biology and the interactions between neurons and their environment.
+
+This article aims to provide a comprehensive overview of the neural scaling law, covering its history, current research, and the implications of this phenomenon for our understanding of brain evolution and function.

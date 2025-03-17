@@ -1,0 +1,1 @@
+Specialized computer hardware is often used to execute artificial intelligence (AI) programs faster, and with less energy, such as Lisp machines, neuromorphic engineering, event cameras, and physical neural networks. Since 2017, several consumer grade CPUs and SoCs have on-die NPUs. As of 2023, the market for AI hardware is dominated by GPUs.

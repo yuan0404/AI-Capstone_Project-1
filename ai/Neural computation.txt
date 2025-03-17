@@ -1,0 +1,7 @@
+Neural computation is a subfield of artificial intelligence that focuses on the study and implementation of algorithms and models inspired by the structure and function of biological neural networks. This field has its roots in the 1960s, when computer scientists and cognitive psychologists began to explore the possibility of simulating human cognition using computational systems.
+
+At its core, neural computation involves the development of mathematical frameworks that can capture the complex dynamics of neural networks, which are composed of interconnected nodes or neurons that process and transmit information. These frameworks often rely on concepts such as activation functions, backpropagation algorithms, and recurrent connections to model the non-linear relationships between different parts of the network.
+
+Neural computation has a wide range of applications in fields such as machine learning, robotics, and neuroscience, where it is used to build models that can learn from data, recognize patterns, and make decisions based on complex inputs. The field has also led to significant advances in our understanding of human brain function and behavior, particularly in the areas of cognitive psychology and neuroscience.
+
+This article provides an overview of the key concepts, techniques, and applications of neural computation, with a focus on its theoretical foundations, computational architectures, and practical implementations.

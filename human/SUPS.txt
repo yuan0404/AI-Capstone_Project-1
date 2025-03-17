@@ -1,0 +1,1 @@
+In computational neuroscience, SUPS (for Synaptic Updates Per Second) or formerly CUPS (Connections Updates Per Second) is a measure of a neuronal network performance, useful in fields of neuroscience, cognitive science, artificial intelligence, and computer science.

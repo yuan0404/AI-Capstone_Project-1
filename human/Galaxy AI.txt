@@ -1,0 +1,2 @@
+Galaxy AI is a suite of artificial intelligence (AI) features developed by Samsung Electronics for its Galaxy line of mobile devices. Introduced in January 2024 with the Samsung Galaxy S24 series, Galaxy AI integrates on-device and cloud-based AI technologies to provide various AI-driven functionalities across Samsung’s ecosystem. The suite includes features such as real-time translation, AI-powered photo editing, and generative search tools.
+

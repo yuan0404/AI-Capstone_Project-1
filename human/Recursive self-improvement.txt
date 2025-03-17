@@ -1,0 +1,3 @@
+Recursive self-improvement (RSI) is a process in which an early or weak artificial general intelligence (AGI) system enhances its own capabilities and intelligence without human intervention, leading to a superintelligence or intelligence explosion.
+The development of recursive self-improvement raises significant ethical and safety concerns, as such systems may evolve in unforeseen ways and could potentially surpass human control or understanding. There has been a number of proponents that have pushed to pause or slow down AI development for the potential risks of runaway AI systems.
+

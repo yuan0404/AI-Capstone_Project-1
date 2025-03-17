@@ -1,0 +1,5 @@
+Brilliant Labs is a privately held American company that specializes in providing educational technology solutions for students, teachers, and institutions. Founded in 2012 by Yannec Maurel and Saurabh Sharma, Brilliant Labs has gained recognition for its innovative approach to learning through AI-powered tools and resources.
+
+The company's flagship product, Brilliant, is an online learning platform designed to provide personalized math education to students from grade school to college. Its algorithm-driven platform uses a combination of machine learning and human curation to offer tailored lessons and exercises tailored to individual student needs and abilities.
+
+Brilliant Labs has expanded its offerings beyond math to include science, computer programming, and other subjects, aiming to create a comprehensive suite of educational tools that cater to diverse interests and skill levels.

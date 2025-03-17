@@ -1,0 +1,1 @@
+Retrieval-based Voice Conversion (RVC) is an open source voice conversion AI algorithm that enables realistic speech-to-speech transformations, accurately preserving the intonation and audio characteristics of the original speaker.

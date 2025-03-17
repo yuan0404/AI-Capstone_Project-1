@@ -1,0 +1,7 @@
+An and-or tree is a data structure used in decision-making and problem-solving processes to represent complex relationships between sets of alternatives or options. It consists of a graphical representation that illustrates how multiple conditions or criteria affect a particular decision, allowing for a systematic evaluation of possible outcomes.
+
+The and-or tree was first introduced by John D. C. Little in 1969 as a method for organizing and analyzing large datasets in operations research. Since its inception, the structure has been widely adopted across various fields, including computer science, business intelligence, and decision support systems.
+
+A key characteristic of the and-or tree is its ability to handle complex interdependencies between different variables or criteria. By representing these relationships in a visual format, decision-makers can quickly identify potential areas of conflict or trade-off between competing goals. This enables more informed and strategic decision-making processes by allowing users to weigh the relative importance of each criterion and evaluate the consequences of different choices.
+
+The structure has also been used in various applications, including multi-criteria decision analysis (MCDA), decision support systems, and business intelligence.

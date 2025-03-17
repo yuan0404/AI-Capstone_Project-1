@@ -1,0 +1,2 @@
+Moral outsourcing refers to placing responsibility for ethical decision-making on to external entities, often algorithms. The term is often used in discussions of computer science and algorithmic fairness, but it can apply to any situation in which one appeals to outside agents in order to absolve themselves of responsibility for their actions. In this context, moral outsourcing specifically refers to the tendency of society to blame technology, rather than its creators or users, for any harm it may cause.
+

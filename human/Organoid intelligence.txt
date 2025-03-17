@@ -1,0 +1,1 @@
+Organoid intelligence (OI) is an emerging field of study in computer science and biology that develops and studies biological wetware computing using 3D cultures of human brain cells (or brain organoids) and brain-machine interface technologies. Such technologies may be referred to as OIs.

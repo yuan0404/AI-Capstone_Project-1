@@ -1,0 +1,1 @@
+Autognostics is a new paradigm that describes the capacity for computer networks to be self-aware. It is considered one of the major components of Autonomic Networking.

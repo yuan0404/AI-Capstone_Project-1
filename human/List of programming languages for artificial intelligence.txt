@@ -1,0 +1,2 @@
+Historically, some programming languages have been specifically designed for artificial intelligence (AI) applications. Nowadays, many general-purpose programming languages also have libraries that can be used to develop AI applications.
+

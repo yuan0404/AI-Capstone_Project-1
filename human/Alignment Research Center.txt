@@ -1,0 +1,1 @@
+The Alignment Research Center (ARC) is a nonprofit research institute based in Berkeley, California, dedicated to the alignment of advanced artificial intelligence with human values and priorities. Established by former OpenAI researcher Paul Christiano, ARC focuses on recognizing and comprehending the potentially harmful capabilities of present-day AI models.

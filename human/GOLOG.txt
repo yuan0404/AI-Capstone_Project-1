@@ -1,0 +1,1 @@
+GOLOG is a high-level logic programming language for the specification and execution of complex actions in dynamical domains. It is based on the situation calculus. It is a first-order logical language for reasoning about action and change. GOLOG was developed at the University of Toronto.

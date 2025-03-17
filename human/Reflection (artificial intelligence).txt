@@ -1,0 +1,2 @@
+Reflection in artificial intelligence, also referred to as large reasoning models (LRMs), is the capability of large language models (LLMs) to examine, evaluate, and improve their own outputs. This process involves self-assessment and internal deliberation, aiming to enhance reasoning accuracy, minimize errors (like hallucinations), and increase interpretability. Reflection is a form of "test-time compute," where additional computational resources are used during inference.
+

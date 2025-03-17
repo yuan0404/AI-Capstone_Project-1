@@ -1,0 +1,5 @@
+HireVue is a cloud-based video assessment platform used by employers to evaluate job candidates remotely. Developed by HireVue Corporation, the company was founded in 2010 with the primary goal of revolutionizing the recruitment process through innovative technology.
+
+The platform utilizes artificial intelligence and machine learning algorithms to analyze candidate responses, behavior, and interactions during virtual interviews, providing employers with a comprehensive understanding of their qualifications and fit for the role. This approach aims to reduce bias, improve hiring accuracy, and enhance the overall efficiency of the hiring process.
+
+HireVue has gained significant traction in the recruitment industry, with numerous high-profile clients across various sectors, including Fortune 500 companies, government agencies, and startups. Its user-friendly interface and flexible deployment options have made it an attractive solution for organizations seeking to modernize their recruitment strategies.

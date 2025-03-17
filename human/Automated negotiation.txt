@@ -1,0 +1,2 @@
+Automated negotiation is a form of interaction in systems that are composed of multiple autonomous agents, in which the aim is to reach agreements through an iterative process of making offers.
+Automated negotiation can be employed for many tasks human negotiators regularly engage in, such as bargaining and joint decision making. The main topics in automated negotiation revolve around the design of protocols and strategies.

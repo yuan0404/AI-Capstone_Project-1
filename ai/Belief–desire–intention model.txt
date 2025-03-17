@@ -1,0 +1,7 @@
+The belief–desire–intention (BDI) model is a computational framework for modeling decision-making and behavior in artificial intelligence and cognitive science. Developed in the 1980s by philosopher and computer scientist Edward C. Hughes, and later refined by Timothy B. Hoegh-Krohn and John Joseph Sowa, the BDI model represents an agent's mental states as consisting of three main components: beliefs, desires, and intentions.
+
+The BDI model provides a simple yet comprehensive framework for describing how an agent forms goals, reasons about its environment, and takes actions to achieve those goals. The model is based on a set of axioms that define the relationships between beliefs, desires, and intentions, allowing agents to reason about their own mental states and make decisions in complex, dynamic environments.
+
+The BDI model has been influential in the development of artificial intelligence, particularly in the areas of planning, decision-making, and multi-agent systems. Its applications include intelligent tutoring systems, autonomous vehicles, and human-computer interaction. The model's simplicity, flexibility, and ease of use have made it a popular choice for researchers and practitioners seeking to develop more advanced AI systems.
+
+This article will provide an overview of the BDI model, its history, key concepts, and major applications. It will also discuss the strengths and limitations of the model, as well as its relationship to other models and approaches in artificial intelligence and cognitive science.
